@@ -1,6 +1,5 @@
 ## Transaction Tracker APP
-
-CRUD operations in TrackerApp - Vue framework using Frappe Framework as Backend
+Simple and tiny Expenses Tracker App - Vue framework , Frappe Framework as Backend and Tailwind 
 
 ![Screenshot from 2024-02-16 13-50-53](https://github.com/harivigneshG/Transaction-Tracker/assets/60092946/829adbf2-bd63-41ae-b6e9-102123dfbabf)
 
